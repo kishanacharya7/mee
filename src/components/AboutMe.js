@@ -13,7 +13,8 @@ export const AboutMe = () => {
                 <div className="col-lg-6 col-xm-12">
                     <h1>About Me</h1>
                 <p>
-                “Hi,I am Kishan Kumar. Born and brought up in Kundapura, Karnataka, I completed my Bachelor of Computer degree in 2011 and Master of Computer degree in 2014. I am qualified computer programmer where I work on various programming languages such as C#, Java, JavaScript, C++, Objective-C, ReactJs and React native. Have 6 years of experience in IT Industry as a module lead - Software Development.
+                “Kishan Kumar,  Module Lead-Software Development. Born and brought up in Kundapura, Karnataka, Completed Bachelor of Computer degree in 2011 and Master of Computer degree in 2014. Qualified computer programmer where I work on various programming languages such as C#, Java, JavaScript, C++, Objective-C, ReactJs and React native. 
+Dynamic and creative software developer with over 6 years of experience in producing robust code for high-volume companies. Eager to support the dev team with top-notch coding skills.
                 </p>
                 </div>
             </div>
